@@ -8,7 +8,7 @@ class rectangle{
         rectangle(){
 
         }
-
+        
         int area(int l, int b){
             this->l =l;
             this->b =b;
@@ -20,7 +20,7 @@ class rectangle{
 
 };
 int main(){
-    rectangle r1 = rectangle();
+    rectangle r1 =  rectangle();
     cout<<r1.area(4,5)<<endl;
     r1.print();
 }
