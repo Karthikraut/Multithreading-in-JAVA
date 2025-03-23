@@ -1,4 +1,4 @@
-package Synchronization;
+package  MultithreadingInJAVA.Synchronization;
 
 public class MyThread extends Thread {
     Counter counter;

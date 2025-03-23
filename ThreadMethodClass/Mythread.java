@@ -1,4 +1,4 @@
-package OOP.ThreadMethodClass;
+package ThreadMethodClass;
 
 public class Mythread extends Thread{
     public Mythread(String name){
