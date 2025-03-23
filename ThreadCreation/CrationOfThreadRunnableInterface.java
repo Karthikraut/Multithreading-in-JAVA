@@ -1,5 +1,3 @@
-package OOP.ThreadCreation;
-
 public class CrationOfThreadRunnableInterface implements Runnable {
     @Override
     public void run(){

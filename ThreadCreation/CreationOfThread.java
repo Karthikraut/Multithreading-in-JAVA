@@ -1,4 +1,4 @@
-package OOP.ThreadCreation;
+
 public class CreationOfThread extends Thread {
     @Override
     public void run(){

@@ -1,5 +1,4 @@
-package OOP.ThreadLifecycle;
-
+package ThreadLifecycle;
 public class Threadlifecycle extends Thread {
     @Override
     public void run(){
@@ -20,5 +19,6 @@ public class Threadlifecycle extends Thread {
         System.out.println(t1.getState()); //Timed_Waiting
         t1.join();
         System.out.println(t1.getState());
+        
     }
 }
