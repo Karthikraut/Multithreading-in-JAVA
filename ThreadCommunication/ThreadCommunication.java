@@ -1,4 +1,4 @@
-package Deadlock.ThreadCommunication;
+package ThreadCommunication;
 
 class SharedResource {
     private int data;
